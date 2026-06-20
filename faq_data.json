@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "How can I reset my password?",
+    "answer": "Click on the 'Forgot Password' link on the login page. Enter your registered email address and we'll send you a password reset link within 2 minutes. Check your spam folder if you don't see it.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "How do I create a new account?",
+    "answer": "Click the 'Sign Up' button on the homepage. Fill in your name, email address, and choose a strong password. Verify your email via the confirmation link we send you, and your account will be ready.",
+    "category": "Account"
+  },
+  {
+    "id": 3,
+    "question": "How do I update my profile information?",
+    "answer": "Log in to your account, navigate to 'Settings' > 'Profile', and update your information. Click 'Save Changes' when done. Changes take effect immediately.",
+    "category": "Account"
+  },
+  {
+    "id": 4,
+    "question": "How do I delete my account?",
+    "answer": "Go to 'Settings' > 'Account' > 'Delete Account'. You'll be asked to confirm by entering your password. Note: account deletion is permanent and all data will be erased after 30 days.",
+    "category": "Account"
+  },
+  {
+    "id": 5,
+    "question": "Why can't I log in to my account?",
+    "answer": "Ensure you are using the correct email and password. If you've forgotten your password, use the 'Forgot Password' option. Also check if Caps Lock is on. If the issue persists, contact support.",
+    "category": "Account"
+  },
+  {
+    "id": 6,
+    "question": "How do I enable two-factor authentication?",
+    "answer": "Go to 'Settings' > 'Security' > 'Two-Factor Authentication'. Choose either SMS or an authenticator app (e.g., Google Authenticator). Follow the on-screen steps to complete setup.",
+    "category": "Security"
+  },
+  {
+    "id": 7,
+    "question": "Is my personal data secure?",
+    "answer": "Yes. We use AES-256 encryption for stored data and TLS 1.3 for all data in transit. We are GDPR and CCPA compliant and never sell your personal data to third parties.",
+    "category": "Security"
+  },
+  {
+    "id": 8,
+    "question": "How do I report a security vulnerability?",
+    "answer": "Please email our security team at security@example.com with details of the vulnerability. We have a responsible disclosure policy and respond within 48 hours. Do not post vulnerabilities publicly.",
+    "category": "Security"
+  },
+  {
+    "id": 9,
+    "question": "What should I do if I suspect my account is hacked?",
+    "answer": "Immediately change your password from a secure device. Enable two-factor authentication and review your recent login activity under 'Settings' > 'Security'. Contact our support team if you see suspicious activity.",
+    "category": "Security"
+  },
+  {
+    "id": 10,
+    "question": "How do I upgrade my subscription plan?",
+    "answer": "Go to 'Settings' > 'Billing' > 'Upgrade Plan'. Select the plan that suits you, enter your payment details, and confirm. The upgrade takes effect immediately and you'll be billed on a pro-rated basis.",
+    "category": "Billing"
+  },
+  {
+    "id": 11,
+    "question": "How do I cancel my subscription?",
+    "answer": "Navigate to 'Settings' > 'Billing' > 'Cancel Subscription'. You can cancel at any time and you'll retain access until the end of your current billing period. No refunds are issued for partial months.",
+    "category": "Billing"
+  },
+  {
+    "id": 12,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and bank transfers (for annual plans). All transactions are processed securely via Stripe.",
+    "category": "Billing"
+  },
+  {
+    "id": 13,
+    "question": "How do I get a refund?",
+    "answer": "Refund requests must be submitted within 14 days of purchase. Contact support with your order ID and reason. Refunds are processed within 5–7 business days to your original payment method.",
+    "category": "Billing"
+  },
+  {
+    "id": 14,
+    "question": "Where can I find my invoices and billing history?",
+    "answer": "All invoices are available under 'Settings' > 'Billing' > 'Invoice History'. You can download any invoice as a PDF for your records.",
+    "category": "Billing"
+  },
+  {
+    "id": 15,
+    "question": "How do I install the desktop application?",
+    "answer": "Visit our Downloads page and select your operating system (Windows, macOS, or Linux). Download the installer, run it, and follow the setup wizard. The app will update automatically after installation.",
+    "category": "Installation"
+  },
+  {
+    "id": 16,
+    "question": "What operating systems are supported?",
+    "answer": "We support Windows 10/11, macOS 12 (Monterey) and later, and Ubuntu 20.04+. Mobile apps are available for iOS 15+ and Android 10+.",
+    "category": "Installation"
+  },
+  {
+    "id": 17,
+    "question": "How do I install the mobile app?",
+    "answer": "Search for our app on the Apple App Store (iOS) or Google Play Store (Android). Tap 'Install' and log in with your existing account credentials once installed.",
+    "category": "Installation"
+  },
+  {
+    "id": 18,
+    "question": "How do I update the application to the latest version?",
+    "answer": "Desktop apps update automatically when launched. You can also manually check via 'Help' > 'Check for Updates'. For mobile, enable automatic updates in your device's App Store settings.",
+    "category": "Installation"
+  },
+  {
+    "id": 19,
+    "question": "The application is crashing on startup. What should I do?",
+    "answer": "Try restarting the app. If it persists, clear the app cache via 'Settings' > 'Advanced' > 'Clear Cache', or reinstall the latest version. Send us the crash log found in AppData/Logs for faster diagnosis.",
+    "category": "Troubleshooting"
+  },
+  {
+    "id": 20,
+    "question": "Why is the app running slowly?",
+    "answer": "Ensure your device meets the minimum system requirements. Close unused background apps, clear the app cache, and ensure you have a stable internet connection. Restarting the app often resolves performance issues.",
+    "category": "Troubleshooting"
+  },
+  {
+    "id": 21,
+    "question": "I am not receiving email notifications. How do I fix this?",
+    "answer": "Check your notification preferences under 'Settings' > 'Notifications'. Ensure our domain is not blocked by your email provider. Check your spam or junk folder and add us to your safe senders list.",
+    "category": "Troubleshooting"
+  },
+  {
+    "id": 22,
+    "question": "How do I sync data across multiple devices?",
+    "answer": "Data syncs automatically when you are signed in with the same account on all devices and have an active internet connection. Visit 'Settings' > 'Sync' to manually trigger a sync or adjust sync preferences.",
+    "category": "Features"
+  },
+  {
+    "id": 23,
+    "question": "Does the app work offline?",
+    "answer": "Yes, core features work offline. Changes made offline are automatically synced when your device reconnects to the internet. Note that some features, like real-time collaboration, require an active connection.",
+    "category": "Features"
+  },
+  {
+    "id": 24,
+    "question": "How do I export my data?",
+    "answer": "Go to 'Settings' > 'Privacy' > 'Export Data'. Select the format (CSV, JSON, or PDF) and click 'Request Export'. You'll receive a download link via email within 24 hours.",
+    "category": "Features"
+  },
+  {
+    "id": 25,
+    "question": "How do I share files or projects with team members?",
+    "answer": "Open the file or project, click the 'Share' button (top right), and enter the email addresses of your collaborators. Set their permission level (view, comment, or edit) and click 'Send Invite'.",
+    "category": "Features"
+  },
+  {
+    "id": 26,
+    "question": "What is the maximum file upload size?",
+    "answer": "Free plan users can upload files up to 25 MB each. Pro plan users have a 500 MB limit per file. Enterprise plan users have no file size restriction.",
+    "category": "Features"
+  },
+  {
+    "id": 27,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via live chat (available 24/7 on our website), email at support@example.com, or phone at +1-800-123-4567 (Mon–Fri, 9 AM–6 PM EST).",
+    "category": "Support"
+  },
+  {
+    "id": 28,
+    "question": "What are your support hours?",
+    "answer": "Live chat and email support are available 24/7. Phone support is available Monday through Friday, 9 AM to 6 PM Eastern Standard Time. Priority support is available for Enterprise plan users.",
+    "category": "Support"
+  },
+  {
+    "id": 29,
+    "question": "How do I submit a feature request?",
+    "answer": "Visit our public roadmap at roadmap.example.com, click 'Submit Idea', and describe your feature request. Other users can upvote it. Our product team reviews top-voted ideas every month.",
+    "category": "Support"
+  },
+  {
+    "id": 30,
+    "question": "How do I access the API?",
+    "answer": "API access is available on Pro and Enterprise plans. Generate your API key under 'Settings' > 'Developer' > 'API Keys'. Full documentation is available at docs.example.com/api.",
+    "category": "Developer"
+  },
+  {
+    "id": 31,
+    "question": "What are the API rate limits?",
+    "answer": "Pro plan: 1,000 requests/hour. Enterprise plan: 10,000 requests/hour. If you exceed the limit, you'll receive a 429 Too Many Requests response. Contact sales for higher limits.",
+    "category": "Developer"
+  },
+  {
+    "id": 32,
+    "question": "Do you offer a free trial?",
+    "answer": "Yes! We offer a 14-day free trial on all plans, no credit card required. At the end of the trial, you can choose a paid plan or downgrade to our free tier.",
+    "category": "Billing"
+  },
+  {
+    "id": 33,
+    "question": "How do I integrate with third-party tools like Slack or Zapier?",
+    "answer": "Go to 'Settings' > 'Integrations' to browse all supported integrations. Click on the tool you want (e.g., Slack), authorize the connection, and configure your preferences. We support 100+ integrations.",
+    "category": "Features"
+  },
+  {
+    "id": 34,
+    "question": "How do I change the language or region settings?",
+    "answer": "Navigate to 'Settings' > 'Preferences' > 'Language & Region'. Select your preferred language from the dropdown and your timezone. Changes apply immediately.",
+    "category": "Account"
+  },
+  {
+    "id": 35,
+    "question": "What happens to my data if I cancel my subscription?",
+    "answer": "If you cancel, your data is retained for 90 days in a read-only state. After 90 days, data is permanently deleted. You can export your data at any time before deletion.",
+    "category": "Billing"
+  }
+]
