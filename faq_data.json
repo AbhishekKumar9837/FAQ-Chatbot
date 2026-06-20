@@ -1,212 +1,632 @@
 [
   {
     "id": 1,
-    "question": "How can I reset my password?",
-    "answer": "Click on the 'Forgot Password' link on the login page. Enter your registered email address and we'll send you a password reset link within 2 minutes. Check your spam folder if you don't see it.",
-    "category": "Account"
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter is the largest planet in our solar system. It is so large that all other planets in the solar system could fit inside it.",
+    "category": "Science"
   },
   {
     "id": 2,
-    "question": "How do I create a new account?",
-    "answer": "Click the 'Sign Up' button on the homepage. Fill in your name, email address, and choose a strong password. Verify your email via the confirmation link we send you, and your account will be ready.",
-    "category": "Account"
+    "question": "What is the speed of light?",
+    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per second), often rounded to 300,000 km/s.",
+    "category": "Science"
   },
   {
     "id": 3,
-    "question": "How do I update my profile information?",
-    "answer": "Log in to your account, navigate to 'Settings' > 'Profile', and update your information. Click 'Save Changes' when done. Changes take effect immediately.",
-    "category": "Account"
+    "question": "What is photosynthesis?",
+    "answer": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of sugar (glucose). It occurs in the chloroplasts of plant cells.",
+    "category": "Science"
   },
   {
     "id": 4,
-    "question": "How do I delete my account?",
-    "answer": "Go to 'Settings' > 'Account' > 'Delete Account'. You'll be asked to confirm by entering your password. Note: account deletion is permanent and all data will be erased after 30 days.",
-    "category": "Account"
+    "question": "What is DNA?",
+    "answer": "DNA (Deoxyribonucleic Acid) is a molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms.",
+    "category": "Science"
   },
   {
     "id": 5,
-    "question": "Why can't I log in to my account?",
-    "answer": "Ensure you are using the correct email and password. If you've forgotten your password, use the 'Forgot Password' option. Also check if Caps Lock is on. If the issue persists, contact support.",
-    "category": "Account"
+    "question": "What is the chemical formula of water?",
+    "answer": "The chemical formula of water is H₂O, meaning each molecule consists of two hydrogen atoms bonded to one oxygen atom.",
+    "category": "Science"
   },
   {
     "id": 6,
-    "question": "How do I enable two-factor authentication?",
-    "answer": "Go to 'Settings' > 'Security' > 'Two-Factor Authentication'. Choose either SMS or an authenticator app (e.g., Google Authenticator). Follow the on-screen steps to complete setup.",
-    "category": "Security"
+    "question": "What is gravity?",
+    "answer": "Gravity is a fundamental force of nature that attracts objects with mass toward each other. On Earth, it gives weight to physical objects and causes the ocean tides.",
+    "category": "Science"
   },
   {
     "id": 7,
-    "question": "Is my personal data secure?",
-    "answer": "Yes. We use AES-256 encryption for stored data and TLS 1.3 for all data in transit. We are GDPR and CCPA compliant and never sell your personal data to third parties.",
-    "category": "Security"
+    "question": "What is the periodic table?",
+    "answer": "The periodic table is a tabular arrangement of the 118 known chemical elements, organized by atomic number, electron configuration, and chemical properties. It was first published by Dmitri Mendeleev in 1869.",
+    "category": "Science"
   },
   {
     "id": 8,
-    "question": "How do I report a security vulnerability?",
-    "answer": "Please email our security team at security@example.com with details of the vulnerability. We have a responsible disclosure policy and respond within 48 hours. Do not post vulnerabilities publicly.",
-    "category": "Security"
+    "question": "What causes a rainbow?",
+    "answer": "A rainbow is caused by the refraction, dispersion, and reflection of sunlight inside water droplets. The light is separated into its spectrum of colors: red, orange, yellow, green, blue, indigo, and violet.",
+    "category": "Science"
   },
   {
     "id": 9,
-    "question": "What should I do if I suspect my account is hacked?",
-    "answer": "Immediately change your password from a secure device. Enable two-factor authentication and review your recent login activity under 'Settings' > 'Security'. Contact our support team if you see suspicious activity.",
-    "category": "Security"
+    "question": "What is the theory of relativity?",
+    "answer": "The theory of relativity, developed by Albert Einstein, includes Special Relativity (1905), which states that the laws of physics are the same for all observers and the speed of light is constant, and General Relativity (1915), which describes gravity as the curvature of spacetime.",
+    "category": "Science"
   },
   {
     "id": 10,
-    "question": "How do I upgrade my subscription plan?",
-    "answer": "Go to 'Settings' > 'Billing' > 'Upgrade Plan'. Select the plan that suits you, enter your payment details, and confirm. The upgrade takes effect immediately and you'll be billed on a pro-rated basis.",
-    "category": "Billing"
+    "question": "What is the human body made of?",
+    "answer": "The human body is made of about 37 trillion cells. By mass, it is approximately 65% oxygen, 18% carbon, 10% hydrogen, 3% nitrogen, and small amounts of other elements like calcium and phosphorus.",
+    "category": "Science"
   },
   {
     "id": 11,
-    "question": "How do I cancel my subscription?",
-    "answer": "Navigate to 'Settings' > 'Billing' > 'Cancel Subscription'. You can cancel at any time and you'll retain access until the end of your current billing period. No refunds are issued for partial months.",
-    "category": "Billing"
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell is widely credited with inventing the telephone. He was awarded the first patent for it on March 7, 1876.",
+    "category": "Technology"
   },
   {
     "id": 12,
-    "question": "What payment methods do you accept?",
-    "answer": "We accept Visa, Mastercard, American Express, PayPal, and bank transfers (for annual plans). All transactions are processed securely via Stripe.",
-    "category": "Billing"
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence processes by computer systems. It includes learning, reasoning, problem-solving, perception, and language understanding. Examples include Siri, ChatGPT, and self-driving cars.",
+    "category": "Technology"
   },
   {
     "id": 13,
-    "question": "How do I get a refund?",
-    "answer": "Refund requests must be submitted within 14 days of purchase. Contact support with your order ID and reason. Refunds are processed within 5–7 business days to your original payment method.",
-    "category": "Billing"
+    "question": "What is the Internet?",
+    "answer": "The Internet is a global network of interconnected computers and servers that communicate using standardized protocols (TCP/IP). It was developed from ARPANET in the 1960s and became publicly accessible in the 1990s.",
+    "category": "Technology"
   },
   {
     "id": 14,
-    "question": "Where can I find my invoices and billing history?",
-    "answer": "All invoices are available under 'Settings' > 'Billing' > 'Invoice History'. You can download any invoice as a PDF for your records.",
-    "category": "Billing"
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of artificial intelligence where algorithms learn patterns from data without being explicitly programmed. It powers applications like recommendation systems, fraud detection, and image recognition.",
+    "category": "Technology"
   },
   {
     "id": 15,
-    "question": "How do I install the desktop application?",
-    "answer": "Visit our Downloads page and select your operating system (Windows, macOS, or Linux). Download the installer, run it, and follow the setup wizard. The app will update automatically after installation.",
-    "category": "Installation"
+    "question": "Who invented the computer?",
+    "answer": "Charles Babbage is often called the 'father of the computer' for designing the first mechanical computer (the Analytical Engine) in the 19th century. Alan Turing later laid the theoretical foundation for modern computing.",
+    "category": "Technology"
   },
   {
     "id": 16,
-    "question": "What operating systems are supported?",
-    "answer": "We support Windows 10/11, macOS 12 (Monterey) and later, and Ubuntu 20.04+. Mobile apps are available for iOS 15+ and Android 10+.",
-    "category": "Installation"
+    "question": "What is blockchain?",
+    "answer": "Blockchain is a distributed ledger technology where data is stored in blocks that are cryptographically linked in a chain. It is the underlying technology for cryptocurrencies like Bitcoin and enables secure, transparent, and tamper-proof transactions.",
+    "category": "Technology"
   },
   {
     "id": 17,
-    "question": "How do I install the mobile app?",
-    "answer": "Search for our app on the Apple App Store (iOS) or Google Play Store (Android). Tap 'Install' and log in with your existing account credentials once installed.",
-    "category": "Installation"
+    "question": "What is the difference between RAM and ROM?",
+    "answer": "RAM (Random Access Memory) is volatile memory used for temporary storage while the computer is running. ROM (Read-Only Memory) is non-volatile memory that retains data permanently, usually containing the firmware that boots the computer.",
+    "category": "Technology"
   },
   {
     "id": 18,
-    "question": "How do I update the application to the latest version?",
-    "answer": "Desktop apps update automatically when launched. You can also manually check via 'Help' > 'Check for Updates'. For mobile, enable automatic updates in your device's App Store settings.",
-    "category": "Installation"
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing is the delivery of computing services — including servers, storage, databases, networking, software, and analytics — over the Internet ('the cloud'). Examples include AWS, Google Cloud, and Microsoft Azure.",
+    "category": "Technology"
   },
   {
     "id": 19,
-    "question": "The application is crashing on startup. What should I do?",
-    "answer": "Try restarting the app. If it persists, clear the app cache via 'Settings' > 'Advanced' > 'Clear Cache', or reinstall the latest version. Send us the crash log found in AppData/Logs for faster diagnosis.",
-    "category": "Troubleshooting"
+    "question": "Which is the longest river in the world?",
+    "answer": "The Nile River in Africa is traditionally considered the longest river in the world, stretching approximately 6,650 kilometers (4,132 miles). Some recent studies suggest the Amazon River may be slightly longer.",
+    "category": "Geography"
   },
   {
     "id": 20,
-    "question": "Why is the app running slowly?",
-    "answer": "Ensure your device meets the minimum system requirements. Close unused background apps, clear the app cache, and ensure you have a stable internet connection. Restarting the app often resolves performance issues.",
-    "category": "Troubleshooting"
+    "question": "What is the largest country in the world by area?",
+    "answer": "Russia is the largest country in the world by total area, covering approximately 17.1 million square kilometers — about 11% of the Earth's total landmass.",
+    "category": "Geography"
   },
   {
     "id": 21,
-    "question": "I am not receiving email notifications. How do I fix this?",
-    "answer": "Check your notification preferences under 'Settings' > 'Notifications'. Ensure our domain is not blocked by your email provider. Check your spam or junk folder and add us to your safe senders list.",
-    "category": "Troubleshooting"
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City (Holy See) is the smallest country in the world, with an area of approximately 0.44 square kilometers (110 acres) and a population of around 800 people. It is located within Rome, Italy.",
+    "category": "Geography"
   },
   {
     "id": 22,
-    "question": "How do I sync data across multiple devices?",
-    "answer": "Data syncs automatically when you are signed in with the same account on all devices and have an active internet connection. Visit 'Settings' > 'Sync' to manually trigger a sync or adjust sync preferences.",
-    "category": "Features"
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra is the capital city of Australia. It was purpose-built to serve as the capital and is located in the Australian Capital Territory (ACT).",
+    "category": "Geography"
   },
   {
     "id": 23,
-    "question": "Does the app work offline?",
-    "answer": "Yes, core features work offline. Changes made offline are automatically synced when your device reconnects to the internet. Note that some features, like real-time collaboration, require an active connection.",
-    "category": "Features"
+    "question": "What is the highest mountain in the world?",
+    "answer": "Mount Everest, located in the Himalayas on the border between Nepal and Tibet (China), is the highest mountain in the world at 8,848.86 meters (29,031.7 feet) above sea level.",
+    "category": "Geography"
   },
   {
     "id": 24,
-    "question": "How do I export my data?",
-    "answer": "Go to 'Settings' > 'Privacy' > 'Export Data'. Select the format (CSV, JSON, or PDF) and click 'Request Export'. You'll receive a download link via email within 24 hours.",
-    "category": "Features"
+    "question": "How many continents are there in the world?",
+    "answer": "There are 7 continents in the world: Asia, Africa, North America, South America, Antarctica, Europe, and Australia (Oceania). Asia is the largest and Australia is the smallest.",
+    "category": "Geography"
   },
   {
     "id": 25,
-    "question": "How do I share files or projects with team members?",
-    "answer": "Open the file or project, click the 'Share' button (top right), and enter the email addresses of your collaborators. Set their permission level (view, comment, or edit) and click 'Send Invite'.",
-    "category": "Features"
+    "question": "What is the largest ocean in the world?",
+    "answer": "The Pacific Ocean is the largest and deepest ocean in the world, covering more than 165 million square kilometers — about 46% of Earth's water surface area.",
+    "category": "Geography"
   },
   {
     "id": 26,
-    "question": "What is the maximum file upload size?",
-    "answer": "Free plan users can upload files up to 25 MB each. Pro plan users have a 500 MB limit per file. Enterprise plan users have no file size restriction.",
-    "category": "Features"
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese Yen (JPY), symbolized as ¥. It is one of the most traded currencies in the foreign exchange market.",
+    "category": "Geography"
   },
   {
     "id": 27,
-    "question": "How do I contact customer support?",
-    "answer": "You can reach our support team via live chat (available 24/7 on our website), email at support@example.com, or phone at +1-800-123-4567 (Mon–Fri, 9 AM–6 PM EST).",
-    "category": "Support"
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília is the capital of Brazil. It was inaugurated in 1960, replacing Rio de Janeiro as the capital. It was purpose-built as the capital city and is a UNESCO World Heritage Site.",
+    "category": "Geography"
   },
   {
     "id": 28,
-    "question": "What are your support hours?",
-    "answer": "Live chat and email support are available 24/7. Phone support is available Monday through Friday, 9 AM to 6 PM Eastern Standard Time. Priority support is available for Enterprise plan users.",
-    "category": "Support"
+    "question": "Which country has the most population in the world?",
+    "answer": "India surpassed China in 2023 to become the most populous country in the world, with a population of over 1.4 billion people.",
+    "category": "Geography"
   },
   {
     "id": 29,
-    "question": "How do I submit a feature request?",
-    "answer": "Visit our public roadmap at roadmap.example.com, click 'Submit Idea', and describe your feature request. Other users can upvote it. Our product team reviews top-voted ideas every month.",
-    "category": "Support"
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington was the first President of the United States, serving two terms from April 30, 1789, to March 4, 1797.",
+    "category": "History"
   },
   {
     "id": 30,
-    "question": "How do I access the API?",
-    "answer": "API access is available on Pro and Enterprise plans. Generate your API key under 'Settings' > 'Developer' > 'API Keys'. Full documentation is available at docs.example.com/api.",
-    "category": "Developer"
+    "question": "When did World War II end?",
+    "answer": "World War II ended in 1945. Germany surrendered on May 8, 1945 (V-E Day — Victory in Europe Day), and Japan surrendered on September 2, 1945 (V-J Day) following the atomic bombings of Hiroshima and Nagasaki.",
+    "category": "History"
   },
   {
     "id": 31,
-    "question": "What are the API rate limits?",
-    "answer": "Pro plan: 1,000 requests/hour. Enterprise plan: 10,000 requests/hour. If you exceed the limit, you'll receive a 429 Too Many Requests response. Contact sales for higher limits.",
-    "category": "Developer"
+    "question": "Who was Mahatma Gandhi?",
+    "answer": "Mahatma Gandhi (Mohandas Karamchand Gandhi, 1869–1948) was an Indian lawyer, anti-colonial nationalist, and political ethicist who led India's independence movement against British rule using nonviolent civil disobedience.",
+    "category": "History"
   },
   {
     "id": 32,
-    "question": "Do you offer a free trial?",
-    "answer": "Yes! We offer a 14-day free trial on all plans, no credit card required. At the end of the trial, you can choose a paid plan or downgrade to our free tier.",
-    "category": "Billing"
+    "question": "When did India gain independence?",
+    "answer": "India gained independence from British colonial rule on August 15, 1947. Jawaharlal Nehru became the first Prime Minister and delivered his famous 'Tryst with Destiny' speech.",
+    "category": "History"
   },
   {
     "id": 33,
-    "question": "How do I integrate with third-party tools like Slack or Zapier?",
-    "answer": "Go to 'Settings' > 'Integrations' to browse all supported integrations. Click on the tool you want (e.g., Slack), authorize the connection, and configure your preferences. We support 100+ integrations.",
-    "category": "Features"
+    "question": "Who built the Great Wall of China?",
+    "answer": "The Great Wall of China was built over many centuries by various Chinese dynasties. Construction began in the 7th century BC and the most famous sections were built during the Ming Dynasty (1368–1644).",
+    "category": "History"
   },
   {
     "id": 34,
-    "question": "How do I change the language or region settings?",
-    "answer": "Navigate to 'Settings' > 'Preferences' > 'Language & Region'. Select your preferred language from the dropdown and your timezone. Changes apply immediately.",
-    "category": "Account"
+    "question": "What was the Renaissance?",
+    "answer": "The Renaissance was a cultural and intellectual movement in Europe that began in Italy in the 14th century and spread across Europe through the 17th century. It marked a transition from the Middle Ages to modernity, emphasizing art, science, and humanism.",
+    "category": "History"
   },
   {
     "id": 35,
-    "question": "What happens to my data if I cancel my subscription?",
-    "answer": "If you cancel, your data is retained for 90 days in a read-only state. After 90 days, data is permanently deleted. You can export your data at any time before deletion.",
-    "category": "Billing"
+    "question": "Who discovered America?",
+    "answer": "Christopher Columbus is credited with 'discovering' America in 1492 when he landed in the Caribbean. However, indigenous peoples had inhabited the Americas for thousands of years, and Norse explorer Leif Erikson reached North America around 1000 AD.",
+    "category": "History"
+  },
+  {
+    "id": 36,
+    "question": "What was the French Revolution?",
+    "answer": "The French Revolution (1789–1799) was a period of radical political and social transformation in France. It overthrew the monarchy, established a republic, and culminated in Napoleon Bonaparte's rise to power. Its ideals of liberty, equality, and fraternity influenced the world.",
+    "category": "History"
+  },
+  {
+    "id": 37,
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "Romeo and Juliet was written by William Shakespeare, the English playwright and poet. It is believed to have been written between 1594 and 1596 and is one of the most famous love stories ever written.",
+    "category": "Arts & Literature"
+  },
+  {
+    "id": 38,
+    "question": "Who painted the Mona Lisa?",
+    "answer": "The Mona Lisa was painted by Leonardo da Vinci, the Italian Renaissance artist and polymath. It was painted between approximately 1503 and 1519 and is now housed in the Louvre Museum in Paris.",
+    "category": "Arts & Literature"
+  },
+  {
+    "id": 39,
+    "question": "What is the most widely spoken language in the world?",
+    "answer": "Mandarin Chinese has the most native speakers (about 920 million), while English is the most widely spoken language overall when counting both native and non-native speakers (about 1.5 billion speakers).",
+    "category": "Arts & Literature"
+  },
+  {
+    "id": 40,
+    "question": "Who wrote Harry Potter?",
+    "answer": "The Harry Potter series was written by British author J.K. Rowling. The first book, 'Harry Potter and the Philosopher's Stone', was published in 1997. The series consists of 7 books and has sold over 500 million copies worldwide.",
+    "category": "Arts & Literature"
+  },
+  {
+    "id": 41,
+    "question": "What are the Seven Wonders of the Ancient World?",
+    "answer": "The Seven Wonders of the Ancient World are: the Great Pyramid of Giza (the only one still standing), the Hanging Gardens of Babylon, the Statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes, and the Lighthouse of Alexandria.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 42,
+    "question": "What is the United Nations?",
+    "answer": "The United Nations (UN) is an international organization founded in 1945 after World War II with the goal of maintaining international peace and security. It currently has 193 member states and its headquarters is in New York City.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 43,
+    "question": "What is the Olympic Games?",
+    "answer": "The Olympic Games is an international multi-sport event organized by the International Olympic Committee (IOC). The modern Olympics began in Athens in 1896 and are held every four years. There are Summer and Winter Olympics.",
+    "category": "Sports"
+  },
+  {
+    "id": 44,
+    "question": "Who has won the most FIFA World Cups?",
+    "answer": "Brazil has won the FIFA World Cup the most times, with 5 titles (1958, 1962, 1970, 1994, 2002). They are followed by Germany and Italy with 4 titles each.",
+    "category": "Sports"
+  },
+  {
+    "id": 45,
+    "question": "Who is considered the greatest footballer of all time?",
+    "answer": "The debate usually centers between Lionel Messi and Cristiano Ronaldo. Messi won the FIFA World Cup with Argentina in 2022 and has won 8 Ballon d'Or awards. Many also cite Pelé (3 World Cups) and Diego Maradona as all-time greats.",
+    "category": "Sports"
+  },
+  {
+    "id": 46,
+    "question": "What is cricket?",
+    "answer": "Cricket is a bat-and-ball game played between two teams of 11 players. It originated in England and is especially popular in South Asia, Australia, and the UK. The ICC Cricket World Cup is the sport's premier international tournament.",
+    "category": "Sports"
+  },
+  {
+    "id": 47,
+    "question": "How many players are in a basketball team?",
+    "answer": "A basketball team has 5 players on the court at a time, with up to 7 substitutes on the bench, for a total roster of 12 players. The NBA (National Basketball Association) is the world's top professional basketball league.",
+    "category": "Sports"
+  },
+  {
+    "id": 48,
+    "question": "What is the Tour de France?",
+    "answer": "The Tour de France is an annual men's multiple-stage bicycle race primarily held in France. It is the most prestigious cycling race in the world, first held in 1903, covering approximately 3,500 km over 21 stages.",
+    "category": "Sports"
+  },
+  {
+    "id": 49,
+    "question": "What is diabetes?",
+    "answer": "Diabetes is a chronic disease in which the body cannot properly regulate blood sugar (glucose) levels. Type 1 diabetes is an autoimmune condition; Type 2 is linked to lifestyle factors. Symptoms include excessive thirst, frequent urination, and fatigue.",
+    "category": "Health"
+  },
+  {
+    "id": 50,
+    "question": "How many bones are in the human body?",
+    "answer": "An adult human body has 206 bones. Babies are born with about 270–300 bones, but many fuse together during childhood and adolescence.",
+    "category": "Health"
+  },
+  {
+    "id": 51,
+    "question": "What is the normal human body temperature?",
+    "answer": "The average normal human body temperature is approximately 37°C (98.6°F). A temperature above 38°C (100.4°F) is generally considered a fever.",
+    "category": "Health"
+  },
+  {
+    "id": 52,
+    "question": "What is the importance of sleep?",
+    "answer": "Sleep is essential for physical and mental health. During sleep, the body repairs tissues, synthesizes proteins, and releases growth hormones. Most adults need 7–9 hours of sleep per night. Lack of sleep can impair memory, judgment, and immune function.",
+    "category": "Health"
+  },
+  {
+    "id": 53,
+    "question": "What is the function of the heart?",
+    "answer": "The heart is a muscular organ that pumps blood throughout the body via the circulatory system. It delivers oxygen and nutrients to tissues and removes carbon dioxide and waste products. The average adult heart beats about 60–100 times per minute.",
+    "category": "Health"
+  },
+  {
+    "id": 54,
+    "question": "What causes cancer?",
+    "answer": "Cancer is caused by mutations in DNA that cause cells to grow uncontrollably. Risk factors include smoking, UV radiation, certain viruses, genetic inheritance, and environmental toxins. There are over 100 types of cancer.",
+    "category": "Health"
+  },
+  {
+    "id": 55,
+    "question": "What is a vaccine?",
+    "answer": "A vaccine is a biological preparation that trains the immune system to recognize and fight specific pathogens (viruses or bacteria). It usually contains a weakened or inactivated form of the pathogen or its proteins, stimulating the body to produce antibodies.",
+    "category": "Health"
+  },
+  {
+    "id": 56,
+    "question": "What is climate change?",
+    "answer": "Climate change refers to long-term shifts in global temperatures and weather patterns. Since the 1800s, human activities — mainly burning fossil fuels — have been the primary driver. It causes rising sea levels, extreme weather, and threatens biodiversity.",
+    "category": "Environment"
+  },
+  {
+    "id": 57,
+    "question": "What is global warming?",
+    "answer": "Global warming is the long-term rise in Earth's average surface temperature due to increased levels of greenhouse gases (CO₂, methane, nitrous oxide) in the atmosphere, primarily from burning fossil fuels, deforestation, and industrial processes.",
+    "category": "Environment"
+  },
+  {
+    "id": 58,
+    "question": "What is the ozone layer?",
+    "answer": "The ozone layer is a region of Earth's stratosphere, about 15–35 km above the surface, that contains high concentrations of ozone (O₃). It absorbs most of the Sun's ultraviolet (UV) radiation, protecting life on Earth. CFCs and other chemicals have caused ozone depletion.",
+    "category": "Environment"
+  },
+  {
+    "id": 59,
+    "question": "What is biodiversity?",
+    "answer": "Biodiversity refers to the variety of life on Earth, including the diversity of species, genes, and ecosystems. It is essential for ecosystem resilience, providing clean air, water, food, and medicines. Human activities threaten biodiversity through habitat destruction, pollution, and climate change.",
+    "category": "Environment"
+  },
+  {
+    "id": 60,
+    "question": "What is deforestation?",
+    "answer": "Deforestation is the large-scale removal of forests, primarily for agriculture, logging, and urban development. It contributes to climate change, loss of biodiversity, soil erosion, and disruption of water cycles. The Amazon rainforest is the most affected region.",
+    "category": "Environment"
+  },
+  {
+    "id": 61,
+    "question": "What is the GDP of a country?",
+    "answer": "GDP (Gross Domestic Product) is the total monetary value of all goods and services produced within a country's borders in a specific time period (usually a year). It is the most widely used measure of a country's economic size and health.",
+    "category": "Economics"
+  },
+  {
+    "id": 62,
+    "question": "What is inflation?",
+    "answer": "Inflation is the rate at which the general level of prices for goods and services rises over time, causing the purchasing power of money to fall. It is measured using indicators like the Consumer Price Index (CPI).",
+    "category": "Economics"
+  },
+  {
+    "id": 63,
+    "question": "What is the stock market?",
+    "answer": "A stock market is a marketplace where buyers and sellers trade shares (stocks) of publicly listed companies. It allows companies to raise capital and investors to share in a company's profits. Major exchanges include the NYSE, NASDAQ, BSE, and NSE.",
+    "category": "Economics"
+  },
+  {
+    "id": 64,
+    "question": "What is cryptocurrency?",
+    "answer": "Cryptocurrency is a digital or virtual currency secured by cryptography and typically based on blockchain technology. Bitcoin (2009) was the first cryptocurrency. Others include Ethereum, Litecoin, and Dogecoin. They operate independently of central banks.",
+    "category": "Economics"
+  },
+  {
+    "id": 65,
+    "question": "What is the World Bank?",
+    "answer": "The World Bank is an international financial institution that provides loans, grants, and advice to developing countries for development projects like infrastructure, education, and healthcare. It was founded in 1944 and is headquartered in Washington, D.C.",
+    "category": "Economics"
+  },
+  {
+    "id": 66,
+    "question": "Who is Albert Einstein?",
+    "answer": "Albert Einstein (1879–1955) was a German-born theoretical physicist who developed the theory of relativity. He won the Nobel Prize in Physics in 1921 for his discovery of the law of the photoelectric effect. His formula E=mc² is one of the most famous equations in physics.",
+    "category": "Famous People"
+  },
+  {
+    "id": 67,
+    "question": "Who is Elon Musk?",
+    "answer": "Elon Musk (born 1971) is a South African-born American entrepreneur and business magnate. He is the CEO of Tesla and SpaceX, and owner of X (formerly Twitter). He is known for his work in electric vehicles, space exploration, and AI.",
+    "category": "Famous People"
+  },
+  {
+    "id": 68,
+    "question": "Who was Isaac Newton?",
+    "answer": "Sir Isaac Newton (1643–1727) was an English mathematician, physicist, and astronomer. He formulated the laws of motion and universal gravitation, developed calculus, and made major contributions to optics. His book 'Principia Mathematica' (1687) is one of the most influential scientific works ever written.",
+    "category": "Famous People"
+  },
+  {
+    "id": 69,
+    "question": "Who was Mother Teresa?",
+    "answer": "Mother Teresa (1910–1997), born Anjezë Gonxhe Bojaxhiu in Macedonia, was a Catholic nun who founded the Missionaries of Charity in Calcutta, India. She devoted her life to serving the poor and sick. She was awarded the Nobel Peace Prize in 1979 and was canonized as Saint Teresa of Calcutta in 2016.",
+    "category": "Famous People"
+  },
+  {
+    "id": 70,
+    "question": "Who was Nelson Mandela?",
+    "answer": "Nelson Mandela (1918–2013) was a South African anti-apartheid activist and politician who served as the first democratically elected President of South Africa (1994–1999). He spent 27 years in prison for his activism and was awarded the Nobel Peace Prize in 1993.",
+    "category": "Famous People"
+  },
+  {
+    "id": 71,
+    "question": "What is the solar system?",
+    "answer": "The solar system consists of the Sun and all objects gravitationally bound to it, including 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune), dwarf planets, moons, asteroids, comets, and other small bodies.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 72,
+    "question": "What is a black hole?",
+    "answer": "A black hole is a region in space where the gravitational pull is so strong that nothing — not even light — can escape from it. They form when massive stars collapse at the end of their life cycle. The first image of a black hole was captured in 2019.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 73,
+    "question": "How far is the Moon from Earth?",
+    "answer": "The average distance from Earth to the Moon is approximately 384,400 kilometers (238,855 miles). This distance varies because the Moon's orbit is elliptical — it ranges from about 356,500 km (perigee) to 406,700 km (apogee).",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 74,
+    "question": "What is the Big Bang theory?",
+    "answer": "The Big Bang theory is the leading cosmological model explaining the origin of the universe. It states that about 13.8 billion years ago, the universe began as an extremely hot, dense singularity and has been expanding ever since.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 75,
+    "question": "Who was the first person to walk on the Moon?",
+    "answer": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during NASA's Apollo 11 mission. His famous words were: 'That's one small step for man, one giant leap for mankind.'",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 76,
+    "question": "What is the Milky Way?",
+    "answer": "The Milky Way is the galaxy that contains our solar system. It is a barred spiral galaxy approximately 100,000 light-years in diameter, containing an estimated 100–400 billion stars. Our Sun is located about 26,000 light-years from the galactic center.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 77,
+    "question": "What is democracy?",
+    "answer": "Democracy is a system of government in which power is vested in the people, who rule either directly or through freely elected representatives. Key principles include free and fair elections, rule of law, protection of civil liberties, and separation of powers.",
+    "category": "Politics & Government"
+  },
+  {
+    "id": 78,
+    "question": "What is the United Nations Security Council?",
+    "answer": "The UN Security Council is the body responsible for maintaining international peace and security. It has 15 members: 5 permanent members (USA, UK, France, Russia, China) with veto power, and 10 non-permanent members elected for 2-year terms.",
+    "category": "Politics & Government"
+  },
+  {
+    "id": 79,
+    "question": "What is the Constitution?",
+    "answer": "A constitution is the supreme law of a country that outlines the fundamental principles, structures, and powers of government, and guarantees the rights and freedoms of citizens. India's Constitution is the longest written constitution in the world.",
+    "category": "Politics & Government"
+  },
+  {
+    "id": 80,
+    "question": "What are human rights?",
+    "answer": "Human rights are universal rights and freedoms that every person is entitled to, regardless of nationality, sex, religion, or ethnicity. They are enshrined in the Universal Declaration of Human Rights (UDHR), adopted by the UN in 1948. They include the right to life, liberty, and freedom from torture.",
+    "category": "Politics & Government"
+  },
+  {
+    "id": 81,
+    "question": "What is the Pythagorean theorem?",
+    "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides: a² + b² = c².",
+    "category": "Mathematics"
+  },
+  {
+    "id": 82,
+    "question": "What is pi?",
+    "answer": "Pi (π) is a mathematical constant representing the ratio of a circle's circumference to its diameter. Its value is approximately 3.14159265358979... It is an irrational number, meaning it has infinitely many decimal places that never repeat.",
+    "category": "Mathematics"
+  },
+  {
+    "id": 83,
+    "question": "What is a prime number?",
+    "answer": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. Examples: 2, 3, 5, 7, 11, 13... The number 2 is the only even prime number.",
+    "category": "Mathematics"
+  },
+  {
+    "id": 84,
+    "question": "What is the Fibonacci sequence?",
+    "answer": "The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34... It appears in nature (sunflower spirals, nautilus shells) and is named after Italian mathematician Leonardo Fibonacci.",
+    "category": "Mathematics"
+  },
+  {
+    "id": 85,
+    "question": "What is photon?",
+    "answer": "A photon is a fundamental particle of light and all other forms of electromagnetic radiation. It has no mass and travels at the speed of light. Photons carry energy proportional to their frequency (E = hf, where h is Planck's constant).",
+    "category": "Science"
+  },
+  {
+    "id": 86,
+    "question": "What is the difference between weather and climate?",
+    "answer": "Weather refers to short-term atmospheric conditions at a specific place and time (e.g., today's rain). Climate refers to the long-term average of weather patterns in a region over 30+ years. 'Climate is what you expect, weather is what you get.'",
+    "category": "Environment"
+  },
+  {
+    "id": 87,
+    "question": "What is yoga?",
+    "answer": "Yoga is an ancient Indian physical, mental, and spiritual practice originating over 5,000 years ago. It combines physical postures (asanas), breathing exercises (pranayama), and meditation. The UN declared June 21 as International Yoga Day in 2015.",
+    "category": "Health"
+  },
+  {
+    "id": 88,
+    "question": "What is the Nobel Prize?",
+    "answer": "The Nobel Prize is a set of international awards given annually by Swedish and Norwegian institutions in recognition of outstanding contributions to physics, chemistry, physiology or medicine, literature, peace, and economic sciences. It was established by Alfred Nobel's will in 1895.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 89,
+    "question": "What is the G20?",
+    "answer": "The G20 (Group of Twenty) is an international forum of the world's 20 major economies — including the US, China, India, Germany, UK, France, Japan, and others — representing about 85% of global GDP. It addresses international economic and financial issues.",
+    "category": "Politics & Government"
+  },
+  {
+    "id": 90,
+    "question": "How does the Internet work?",
+    "answer": "The Internet works by breaking data into small packets, which travel through a global network of routers and servers using the TCP/IP protocol. Each device has an IP address. When you visit a website, your browser sends a request to the website's server, which sends back the data to display.",
+    "category": "Technology"
+  },
+  {
+    "id": 91,
+    "question": "What is the Amazon rainforest?",
+    "answer": "The Amazon rainforest is the world's largest tropical rainforest, covering over 5.5 million km² across South America, mainly in Brazil. It is home to 10% of Earth's species and produces about 20% of the world's oxygen, earning it the nickname 'the lungs of the Earth'.",
+    "category": "Environment"
+  },
+  {
+    "id": 92,
+    "question": "What are the planets in our solar system?",
+    "answer": "The 8 planets in our solar system, in order from the Sun, are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a 'dwarf planet' in 2006 by the International Astronomical Union.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 93,
+    "question": "What is the Taj Mahal?",
+    "answer": "The Taj Mahal is a white marble mausoleum in Agra, India, built by Mughal Emperor Shah Jahan between 1632 and 1653 in memory of his wife Mumtaz Mahal. It is a UNESCO World Heritage Site and one of the New Seven Wonders of the World.",
+    "category": "History"
+  },
+  {
+    "id": 94,
+    "question": "What language has the most words?",
+    "answer": "English has the most words of any language, with over 170,000 words in current use according to the Oxford English Dictionary, and over 470,000 entries if archaic and technical terms are included.",
+    "category": "Arts & Literature"
+  },
+  {
+    "id": 95,
+    "question": "What is the FIFA World Cup?",
+    "answer": "The FIFA World Cup is the international association football (soccer) tournament organized by FIFA. It is held every four years and is the most widely viewed sporting event in the world. Argentina are the reigning champions (2022).",
+    "category": "Sports"
+  },
+  {
+    "id": 96,
+    "question": "What is the theory of evolution?",
+    "answer": "The theory of evolution, developed by Charles Darwin and Alfred Russel Wallace, states that all species of life have descended from common ancestors through a process of natural selection. Organisms with traits better suited to their environment survive and reproduce more successfully.",
+    "category": "Science"
+  },
+  {
+    "id": 97,
+    "question": "What is the human genome?",
+    "answer": "The human genome is the complete set of genetic information in a human cell, encoded in DNA. It contains about 3 billion base pairs and approximately 20,000–25,000 protein-coding genes. The Human Genome Project completed its sequencing in 2003.",
+    "category": "Science"
+  },
+  {
+    "id": 98,
+    "question": "What is the difference between bacteria and viruses?",
+    "answer": "Bacteria are single-celled living organisms that can reproduce on their own and are treated with antibiotics. Viruses are non-living particles that require a host cell to replicate and are treated with antivirals or prevented with vaccines. COVID-19 is caused by a virus; pneumonia can be caused by both.",
+    "category": "Health"
+  },
+  {
+    "id": 99,
+    "question": "Who is Sachin Tendulkar?",
+    "answer": "Sachin Tendulkar is an Indian cricket legend, widely regarded as the greatest batsman of all time. He scored 100 international centuries — a record no one has matched. He is the highest run-scorer in both Test and ODI cricket. He was awarded the Bharat Ratna in 2014.",
+    "category": "Sports"
+  },
+  {
+    "id": 100,
+    "question": "What is the largest desert in the world?",
+    "answer": "Antarctica is the largest desert in the world (a desert is defined by low precipitation, not just sand and heat), covering about 14.2 million km². The Sahara is the largest hot desert, covering about 9.2 million km² across North Africa.",
+    "category": "Geography"
+  },
+  {
+    "id": 101,
+    "question": "What is quantum physics?",
+    "answer": "Quantum physics (or quantum mechanics) is the branch of physics that studies matter and energy at the smallest scales — atoms and subatomic particles. It introduced concepts like wave-particle duality, the uncertainty principle (Heisenberg), and quantum entanglement.",
+    "category": "Science"
+  },
+  {
+    "id": 102,
+    "question": "What is the difference between a comet and an asteroid?",
+    "answer": "Asteroids are rocky or metallic objects orbiting the Sun, mostly found in the asteroid belt between Mars and Jupiter. Comets are icy bodies from the outer solar system that develop a glowing coma (tail) of gas and dust when they pass close to the Sun.",
+    "category": "Space & Astronomy"
+  },
+  {
+    "id": 103,
+    "question": "What is the largest animal in the world?",
+    "answer": "The blue whale is the largest animal on Earth, reaching lengths of up to 30 meters (100 feet) and weighing as much as 200 tonnes. It is also the loudest animal — its call can reach 188 decibels.",
+    "category": "Science"
+  },
+  {
+    "id": 104,
+    "question": "Who invented the lightbulb?",
+    "answer": "Thomas Edison is widely credited with inventing the practical incandescent light bulb in 1879. However, several other inventors including Humphry Davy and Joseph Swan also contributed to its development.",
+    "category": "Technology"
+  },
+  {
+    "id": 105,
+    "question": "What is the capital of India?",
+    "answer": "New Delhi is the capital city of India. It is part of the National Capital Territory (NCT) of Delhi and is the seat of all three branches of the Government of India.",
+    "category": "Geography"
   }
 ]
