@@ -708,6 +708,39 @@ body::before {
 
 .message.user .message-time { text-align: right; }
 
+/* Copy button */
+.copy-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--bg-glass);
+  border: 1px solid var(--border-glass);
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+  padding: 4px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  opacity: 0;
+  transition: all var(--transition);
+  display: grid;
+  place-items: center;
+}
+
+.message.bot:hover .copy-btn {
+  opacity: 1;
+}
+
+.copy-btn:hover {
+  background: var(--bg-glass-hover);
+  color: var(--text-primary);
+  transform: scale(1.05);
+}
+
+.message.bot .bubble {
+  padding-right: 40px; /* Make room for copy button */
+}
+
+
 /* Typing indicator */
 .typing-indicator {
   display: flex;

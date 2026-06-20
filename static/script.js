@@ -359,6 +359,21 @@ function appendBotMessage(answer, score, matchedQ, matched) {
   time.textContent = nowTime();
   bubble.appendChild(time);
 
+  // Copy button
+  const copyBtn = document.createElement("button");
+  copyBtn.className = "copy-btn";
+  copyBtn.title = "Copy answer";
+  copyBtn.innerHTML = "📋";
+  copyBtn.setAttribute("aria-label", "Copy answer");
+  copyBtn.addEventListener("click", () => {
+    navigator.clipboard.writeText(answer).then(() => {
+      copyBtn.innerHTML = "✅";
+      setTimeout(() => copyBtn.innerHTML = "📋", 2000);
+      showToast("Copied to clipboard!");
+    }).catch(() => showToast("Failed to copy", "error"));
+  });
+  bubble.appendChild(copyBtn);
+
   wrap.appendChild(avatar);
   wrap.appendChild(bubble);
   chatWindow.appendChild(wrap);
