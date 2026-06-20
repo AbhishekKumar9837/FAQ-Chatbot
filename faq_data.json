@@ -1,302 +1,302 @@
 [
   {
     "id": 1,
-    "question": "Who was the first Governor-General of independent India?",
-    "answer": "Lord Mountbatten was the first Governor-General of independent India.",
-    "category": "Indian History"
+    "question": "What is the capital of Australia?",
+    "answer": "The capital of Australia is Canberra.",
+    "category": "World Capitals"
   },
   {
     "id": 2,
-    "question": "Who is known as the 'Iron Man of India'?",
-    "answer": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in integrating the princely states into the Indian Union.",
-    "category": "Indian History"
+    "question": "What is the capital of Canada?",
+    "answer": "The capital of Canada is Ottawa.",
+    "category": "World Capitals"
   },
   {
     "id": 3,
-    "question": "In which year did the Jallianwala Bagh massacre take place?",
-    "answer": "The Jallianwala Bagh massacre took place on April 13, 1919, in Amritsar.",
-    "category": "Indian History"
+    "question": "What is the capital of Brazil?",
+    "answer": "The capital of Brazil is Brasília.",
+    "category": "World Capitals"
   },
   {
     "id": 4,
-    "question": "Who founded the Indian National Congress?",
-    "answer": "Allan Octavian Hume (A.O. Hume) founded the Indian National Congress in 1885.",
-    "category": "Indian History"
+    "question": "What is the capital of Japan?",
+    "answer": "The capital of Japan is Tokyo.",
+    "category": "World Capitals"
   },
   {
     "id": 5,
-    "question": "Which movement was launched by Mahatma Gandhi in 1942?",
-    "answer": "The Quit India Movement was launched by Mahatma Gandhi in 1942.",
-    "category": "Indian History"
+    "question": "What is the capital of Egypt?",
+    "answer": "The capital of Egypt is Cairo.",
+    "category": "World Capitals"
   },
   {
     "id": 6,
-    "question": "Who was the first woman President of the Indian National Congress?",
-    "answer": "Annie Besant was the first woman President of the Indian National Congress.",
-    "category": "Indian History"
+    "question": "What is the capital of South Africa?",
+    "answer": "South Africa has three capital cities: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative).",
+    "category": "World Capitals"
   },
   {
     "id": 7,
-    "question": "Under which Article of the Constitution can the President declare a National Emergency?",
-    "answer": "Under Article 352 of the Indian Constitution, the President can declare a National Emergency.",
-    "category": "Indian Polity"
+    "question": "What is the capital of Argentina?",
+    "answer": "The capital of Argentina is Buenos Aires.",
+    "category": "World Capitals"
   },
   {
     "id": 8,
-    "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
-    "answer": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.",
-    "category": "Indian Polity"
+    "question": "What is the capital of Turkey?",
+    "answer": "The capital of Turkey is Ankara.",
+    "category": "World Capitals"
   },
   {
     "id": 9,
-    "question": "What is the minimum age to become the President of India?",
-    "answer": "The minimum age to become the President of India is 35 years.",
-    "category": "Indian Polity"
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "The currency of the United Kingdom is the Pound Sterling (GBP).",
+    "category": "World Currencies"
   },
   {
     "id": 10,
-    "question": "Who administers the oath of office to the President of India?",
-    "answer": "The Chief Justice of India administers the oath of office to the President of India.",
-    "category": "Indian Polity"
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese Yen (JPY).",
+    "category": "World Currencies"
   },
   {
     "id": 11,
-    "question": "Which Constitutional Amendment lowered the voting age from 21 to 18 years?",
-    "answer": "The 61st Constitutional Amendment Act of 1988 lowered the voting age from 21 to 18 years.",
-    "category": "Indian Polity"
+    "question": "What is the currency of China?",
+    "answer": "The currency of China is the Renminbi (RMB), whose basic unit is the Yuan.",
+    "category": "World Currencies"
   },
   {
     "id": 12,
-    "question": "Which is the longest river in India?",
-    "answer": "The Ganga (Ganges) is the longest river in India.",
-    "category": "Indian Geography"
+    "question": "What is the currency of India?",
+    "answer": "The currency of India is the Indian Rupee (INR).",
+    "category": "World Currencies"
   },
   {
     "id": 13,
-    "question": "Which Indian state has the longest coastline?",
-    "answer": "Gujarat has the longest coastline among Indian states.",
-    "category": "Indian Geography"
+    "question": "What is the currency of Russia?",
+    "answer": "The currency of Russia is the Russian Ruble (RUB).",
+    "category": "World Currencies"
   },
   {
     "id": 14,
-    "question": "Which is the highest peak in India?",
-    "answer": "Kangchenjunga is the highest peak in India (and the third highest in the world).",
-    "category": "Indian Geography"
+    "question": "What is the currency of South Africa?",
+    "answer": "The currency of South Africa is the South African Rand (ZAR).",
+    "category": "World Currencies"
   },
   {
     "id": 15,
-    "question": "Which imaginary line passes through the middle of India?",
-    "answer": "The Tropic of Cancer passes through the middle of India.",
-    "category": "Indian Geography"
+    "question": "What is the currency of Mexico?",
+    "answer": "The currency of Mexico is the Mexican Peso (MXN).",
+    "category": "World Currencies"
   },
   {
     "id": 16,
-    "question": "Which state is known as the 'Spice Garden of India'?",
-    "answer": "Kerala is known as the 'Spice Garden of India'.",
-    "category": "Indian Geography"
+    "question": "What is the most spoken language in the world by total speakers?",
+    "answer": "English is the most spoken language in the world by total speakers (native and non-native).",
+    "category": "World Languages"
   },
   {
     "id": 17,
-    "question": "What is the chemical name of baking soda?",
-    "answer": "The chemical name of baking soda is Sodium Bicarbonate (NaHCO3).",
-    "category": "General Science"
+    "question": "What is the most spoken language in the world by native speakers?",
+    "answer": "Mandarin Chinese is the most spoken language in the world by number of native speakers.",
+    "category": "World Languages"
   },
   {
     "id": 18,
-    "question": "Which gas is most abundant in the Earth's atmosphere?",
-    "answer": "Nitrogen is the most abundant gas in the Earth's atmosphere, making up about 78%.",
-    "category": "General Science"
+    "question": "What is the official language of Brazil?",
+    "answer": "The official language of Brazil is Portuguese.",
+    "category": "World Languages"
   },
   {
     "id": 19,
-    "question": "What is the SI unit of electric current?",
-    "answer": "The SI unit of electric current is the Ampere (A).",
-    "category": "General Science"
+    "question": "How many official languages does the United Nations have?",
+    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+    "category": "World Languages"
   },
   {
     "id": 20,
-    "question": "Which vitamin is synthesized by the human body when exposed to sunlight?",
-    "answer": "Vitamin D is synthesized by the human body when the skin is exposed to sunlight.",
-    "category": "General Science"
+    "question": "Which country has the most official languages?",
+    "answer": "Zimbabwe holds the record for the most official languages at a national level, with 16.",
+    "category": "World Languages"
   },
   {
     "id": 21,
-    "question": "What is the hardest naturally occurring substance on Earth?",
-    "answer": "Diamond is the hardest naturally occurring substance on Earth.",
-    "category": "General Science"
+    "question": "What is the official language of Egypt?",
+    "answer": "The official language of Egypt is Arabic.",
+    "category": "World Languages"
   },
   {
     "id": 22,
-    "question": "Which instrument is used to measure atmospheric pressure?",
-    "answer": "A barometer is used to measure atmospheric pressure.",
-    "category": "General Science"
+    "question": "What is the largest country by land area?",
+    "answer": "Russia is the largest country in the world by land area.",
+    "category": "World Facts"
   },
   {
     "id": 23,
-    "question": "Who controls the monetary policy in India?",
-    "answer": "The Reserve Bank of India (RBI) controls the monetary policy in India.",
-    "category": "Economics"
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City is the smallest country in the world, both by land area and population.",
+    "category": "World Facts"
   },
   {
     "id": 24,
-    "question": "What does GDP stand for?",
-    "answer": "GDP stands for Gross Domestic Product.",
-    "category": "Economics"
+    "question": "Which country has the largest population?",
+    "answer": "India currently has the largest population in the world, having surpassed China in 2023.",
+    "category": "World Facts"
   },
   {
     "id": 25,
-    "question": "In which year was the Reserve Bank of India established?",
-    "answer": "The Reserve Bank of India was established on April 1, 1935.",
-    "category": "Economics"
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan is known as the Land of the Rising Sun.",
+    "category": "World Facts"
   },
   {
     "id": 26,
-    "question": "What is the GST model adopted by India?",
-    "answer": "India has adopted a Dual GST model (CGST and SGST).",
-    "category": "Economics"
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "answer": "Norway is known as the Land of the Midnight Sun.",
+    "category": "World Facts"
   },
   {
     "id": 27,
-    "question": "Who was the first Indian to win a Nobel Prize?",
-    "answer": "Rabindranath Tagore was the first Indian to win a Nobel Prize (in Literature, for 'Gitanjali' in 1913).",
-    "category": "General Knowledge"
+    "question": "What is the longest river in the world?",
+    "answer": "The Nile River in Africa is traditionally considered the longest river in the world.",
+    "category": "World Geography"
   },
   {
     "id": 28,
-    "question": "Which is the largest freshwater lake in India?",
-    "answer": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India.",
-    "category": "Indian Geography"
+    "question": "What is the largest desert in the world?",
+    "answer": "The Antarctic Desert is the largest desert in the world. The Sahara is the largest hot desert.",
+    "category": "World Geography"
   },
   {
     "id": 29,
-    "question": "What is the full form of ISRO?",
-    "answer": "ISRO stands for Indian Space Research Organisation.",
-    "category": "General Knowledge"
+    "question": "Which is the highest mountain peak in the world?",
+    "answer": "Mount Everest is the highest mountain peak in the world, located in the Himalayas.",
+    "category": "World Geography"
   },
   {
     "id": 30,
-    "question": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
-    "answer": "Rabindranath Tagore wrote the Indian national anthem 'Jana Gana Mana'.",
-    "category": "General Knowledge"
+    "question": "What is the largest ocean on Earth?",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "category": "World Geography"
   },
   {
     "id": 31,
-    "question": "Which planet is known as the 'Red Planet'?",
-    "answer": "Mars is known as the 'Red Planet' due to the presence of iron oxide on its surface.",
-    "category": "General Science"
+    "question": "Which country has the longest coastline in the world?",
+    "answer": "Canada has the longest coastline in the world.",
+    "category": "World Geography"
   },
   {
     "id": 32,
-    "question": "Who was the first female Prime Minister of India?",
-    "answer": "Indira Gandhi was the first female Prime Minister of India.",
-    "category": "Indian History"
+    "question": "Which continent is the most populous?",
+    "answer": "Asia is the most populous continent, home to roughly 60% of the world's population.",
+    "category": "World Facts"
   },
   {
     "id": 33,
-    "question": "What is the capital of Lakshadweep?",
-    "answer": "Kavaratti is the capital of the Union Territory of Lakshadweep.",
-    "category": "Indian Geography"
+    "question": "How many continents are there?",
+    "answer": "There are generally considered to be seven continents: Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America.",
+    "category": "World Facts"
   },
   {
     "id": 34,
-    "question": "Which enzyme digests protein in the stomach?",
-    "answer": "Pepsin is the enzyme that digests protein in the stomach.",
-    "category": "General Science"
+    "question": "What is the national animal of Australia?",
+    "answer": "The national animal of Australia is the Red Kangaroo.",
+    "category": "World Facts"
   },
   {
     "id": 35,
-    "question": "Who was the first Indian woman to win an Olympic medal?",
-    "answer": "Karnam Malleswari was the first Indian woman to win an Olympic medal (Bronze in weightlifting, 2000 Sydney Olympics).",
-    "category": "Sports"
+    "question": "What is the capital of New Zealand?",
+    "answer": "The capital of New Zealand is Wellington.",
+    "category": "World Capitals"
   },
   {
     "id": 36,
-    "question": "What is the currency of Japan?",
-    "answer": "The Japanese Yen is the currency of Japan.",
-    "category": "General Knowledge"
+    "question": "What is the currency of Switzerland?",
+    "answer": "The currency of Switzerland is the Swiss Franc (CHF).",
+    "category": "World Currencies"
   },
   {
     "id": 37,
-    "question": "Who discovered Penicillin?",
-    "answer": "Alexander Fleming discovered Penicillin in 1928.",
-    "category": "General Science"
+    "question": "Which two countries share the longest international border?",
+    "answer": "Canada and the United States share the longest international border in the world.",
+    "category": "World Geography"
   },
   {
     "id": 38,
-    "question": "Which is the highest civilian award in India?",
-    "answer": "The Bharat Ratna is the highest civilian award in India.",
-    "category": "General Knowledge"
+    "question": "What is the capital of Italy?",
+    "answer": "The capital of Italy is Rome.",
+    "category": "World Capitals"
   },
   {
     "id": 39,
-    "question": "Which gland is known as the 'Master Gland' of the human body?",
-    "answer": "The pituitary gland is known as the 'Master Gland' of the human body.",
-    "category": "General Science"
+    "question": "What is the currency of Brazil?",
+    "answer": "The currency of Brazil is the Brazilian Real (BRL).",
+    "category": "World Currencies"
   },
   {
     "id": 40,
-    "question": "What is the normal blood pressure of a healthy human?",
-    "answer": "The normal blood pressure of a healthy human is 120/80 mmHg.",
-    "category": "General Science"
+    "question": "What is the primary language spoken in Argentina?",
+    "answer": "The primary and official language of Argentina is Spanish.",
+    "category": "World Languages"
   },
   {
     "id": 41,
-    "question": "Who was the founder of the Maurya Empire?",
-    "answer": "Chandragupta Maurya was the founder of the Maurya Empire.",
-    "category": "Indian History"
+    "question": "Which country is home to the Great Barrier Reef?",
+    "answer": "Australia is home to the Great Barrier Reef.",
+    "category": "World Geography"
   },
   {
     "id": 42,
-    "question": "Which article of the Indian Constitution is related to the abolition of Untouchability?",
-    "answer": "Article 17 of the Indian Constitution is related to the abolition of Untouchability.",
-    "category": "Indian Polity"
+    "question": "What is the capital of Spain?",
+    "answer": "The capital of Spain is Madrid.",
+    "category": "World Capitals"
   },
   {
     "id": 43,
-    "question": "Which is the deepest ocean in the world?",
-    "answer": "The Pacific Ocean is the deepest ocean in the world.",
-    "category": "General Knowledge"
+    "question": "What is the currency of South Korea?",
+    "answer": "The currency of South Korea is the South Korean Won (KRW).",
+    "category": "World Currencies"
   },
   {
     "id": 44,
-    "question": "What is the pH value of pure water?",
-    "answer": "The pH value of pure water is 7 (neutral).",
-    "category": "General Science"
+    "question": "Which river flows through Paris?",
+    "answer": "The Seine River flows through Paris.",
+    "category": "World Geography"
   },
   {
     "id": 45,
-    "question": "Who was the first Vice-President of India?",
-    "answer": "Dr. Sarvepalli Radhakrishnan was the first Vice-President of India.",
-    "category": "Indian Polity"
+    "question": "What is the capital of Thailand?",
+    "answer": "The capital of Thailand is Bangkok.",
+    "category": "World Capitals"
   },
   {
     "id": 46,
-    "question": "Which disease is caused by the deficiency of Vitamin C?",
-    "answer": "Scurvy is a disease caused by the deficiency of Vitamin C.",
-    "category": "General Science"
+    "question": "Which country has the most islands in the world?",
+    "answer": "Sweden has the most islands in the world, with over 260,000.",
+    "category": "World Geography"
   },
   {
     "id": 47,
-    "question": "Who wrote 'Vande Mataram'?",
-    "answer": "Bankim Chandra Chattopadhyay wrote the national song 'Vande Mataram'.",
-    "category": "Indian History"
+    "question": "What is the currency of Saudi Arabia?",
+    "answer": "The currency of Saudi Arabia is the Saudi Riyal (SAR).",
+    "category": "World Currencies"
   },
   {
     "id": 48,
-    "question": "Where is the headquarters of the Reserve Bank of India (RBI) located?",
-    "answer": "The headquarters of the Reserve Bank of India (RBI) is located in Mumbai.",
-    "category": "Economics"
+    "question": "What is the most populous city in the world?",
+    "answer": "Tokyo, Japan, is the most populous metropolitan area in the world.",
+    "category": "World Facts"
   },
   {
     "id": 49,
-    "question": "What is the chemical symbol for Gold?",
-    "answer": "The chemical symbol for Gold is Au (from Latin 'aurum').",
-    "category": "General Science"
+    "question": "Which country is both a continent and a country?",
+    "answer": "Australia is both a continent and a country.",
+    "category": "World Facts"
   },
   {
     "id": 50,
-    "question": "Who built the Red Fort in Delhi?",
-    "answer": "Mughal Emperor Shah Jahan built the Red Fort in Delhi.",
-    "category": "Indian History"
+    "question": "What is the capital of Kenya?",
+    "answer": "The capital of Kenya is Nairobi.",
+    "category": "World Capitals"
   }
 ]
