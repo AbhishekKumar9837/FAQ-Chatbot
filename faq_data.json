@@ -1,302 +1,242 @@
 [
   {
     "id": 1,
-    "question": "What is the capital of Australia?",
-    "answer": "The capital of Australia is Canberra.",
-    "category": "World Capitals"
+    "question": "How can I reset my password?",
+    "answer": "Click on the 'Forgot Password' link on the login page. Enter your registered email address and we'll send you a password reset link within 2 minutes. Check your spam folder if you don't see it.",
+    "category": "Account Management"
   },
   {
     "id": 2,
-    "question": "What is the capital of Canada?",
-    "answer": "The capital of Canada is Ottawa.",
-    "category": "World Capitals"
+    "question": "How do I change my email address?",
+    "answer": "Go to Account Settings > Profile. Click 'Edit' next to your email address, enter your new email, and verify it using the code sent to your new inbox.",
+    "category": "Account Management"
   },
   {
     "id": 3,
-    "question": "What is the capital of Brazil?",
-    "answer": "The capital of Brazil is Brasília.",
-    "category": "World Capitals"
+    "question": "How do I delete my account?",
+    "answer": "To permanently delete your account, navigate to Settings > Privacy & Security, scroll to the bottom, and click 'Delete Account'. Please note this action cannot be undone and all data will be lost.",
+    "category": "Account Management"
   },
   {
     "id": 4,
-    "question": "What is the capital of Japan?",
-    "answer": "The capital of Japan is Tokyo.",
-    "category": "World Capitals"
+    "question": "Can I merge two accounts?",
+    "answer": "Currently, we do not support merging accounts automatically. Please contact our support team, and we can manually migrate your data from one account to the other.",
+    "category": "Account Management"
   },
   {
     "id": 5,
-    "question": "What is the capital of Egypt?",
-    "answer": "The capital of Egypt is Cairo.",
-    "category": "World Capitals"
+    "question": "How do I update my payment method?",
+    "answer": "Go to Settings > Billing. Click on 'Payment Methods' to add a new credit card or PayPal account. You can set the new method as your default for future invoices.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 6,
-    "question": "What is the capital of South Africa?",
-    "answer": "South Africa has three capital cities: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative).",
-    "category": "World Capitals"
+    "question": "Where can I find my past invoices?",
+    "answer": "All past invoices are available in the Billing section under 'Invoice History'. You can download them as PDFs at any time.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 7,
-    "question": "What is the capital of Argentina?",
-    "answer": "The capital of Argentina is Buenos Aires.",
-    "category": "World Capitals"
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription by going to Settings > Billing > Plan Details and clicking 'Cancel Subscription'. You will have access to your premium features until the end of the current billing cycle.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 8,
-    "question": "What is the capital of Turkey?",
-    "answer": "The capital of Turkey is Ankara.",
-    "category": "World Capitals"
+    "question": "Do you offer refunds?",
+    "answer": "Yes, we offer a 14-day money-back guarantee on all annual plans. Monthly plans are non-refundable, but you can cancel anytime to prevent future charges.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 9,
-    "question": "What is the currency of the United Kingdom?",
-    "answer": "The currency of the United Kingdom is the Pound Sterling (GBP).",
-    "category": "World Currencies"
+    "question": "What happens when my free trial ends?",
+    "answer": "When your 14-day free trial ends, your account will automatically be downgraded to the free tier unless you add a payment method and select a premium plan.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 10,
-    "question": "What is the currency of Japan?",
-    "answer": "The currency of Japan is the Japanese Yen (JPY).",
-    "category": "World Currencies"
+    "question": "Do you offer discounts for non-profits or students?",
+    "answer": "Yes, we offer a 50% discount for registered non-profits and students. Please contact our support team from your organizational or .edu email address to apply.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 11,
-    "question": "What is the currency of China?",
-    "answer": "The currency of China is the Renminbi (RMB), whose basic unit is the Yuan.",
-    "category": "World Currencies"
+    "question": "How do I enable two-factor authentication (2FA)?",
+    "answer": "Go to Settings > Security. Click 'Enable 2FA' and follow the prompts to link your authenticator app (like Google Authenticator or Authy) using the provided QR code.",
+    "category": "Security & Privacy"
   },
   {
     "id": 12,
-    "question": "What is the currency of India?",
-    "answer": "The currency of India is the Indian Rupee (INR).",
-    "category": "World Currencies"
+    "question": "Is my data encrypted?",
+    "answer": "Yes, all data is encrypted in transit using TLS 1.3 and at rest using AES-256 encryption. We adhere to industry-standard security practices.",
+    "category": "Security & Privacy"
   },
   {
     "id": 13,
-    "question": "What is the currency of Russia?",
-    "answer": "The currency of Russia is the Russian Ruble (RUB).",
-    "category": "World Currencies"
+    "question": "Are you GDPR compliant?",
+    "answer": "Yes, we are fully GDPR and CCPA compliant. You can request a data export or data deletion at any time from your Privacy Settings.",
+    "category": "Security & Privacy"
   },
   {
     "id": 14,
-    "question": "What is the currency of South Africa?",
-    "answer": "The currency of South Africa is the South African Rand (ZAR).",
-    "category": "World Currencies"
+    "question": "How do I log out of all devices?",
+    "answer": "If you suspect unauthorized access, go to Settings > Security and click 'Log out of all active sessions'. This will instantly terminate access on all browsers and devices.",
+    "category": "Security & Privacy"
   },
   {
     "id": 15,
-    "question": "What is the currency of Mexico?",
-    "answer": "The currency of Mexico is the Mexican Peso (MXN).",
-    "category": "World Currencies"
+    "question": "How do I install the desktop app?",
+    "answer": "You can download the Windows or macOS desktop app from our downloads page. Run the installer, and follow the on-screen instructions to set it up.",
+    "category": "Installation & Setup"
   },
   {
     "id": 16,
-    "question": "What is the most spoken language in the world by total speakers?",
-    "answer": "English is the most spoken language in the world by total speakers (native and non-native).",
-    "category": "World Languages"
+    "question": "What are the system requirements?",
+    "answer": "Our application requires Windows 10/11 or macOS 11+, at least 4GB of RAM, and 500MB of free disk space. A stable internet connection is required for syncing.",
+    "category": "Installation & Setup"
   },
   {
     "id": 17,
-    "question": "What is the most spoken language in the world by native speakers?",
-    "answer": "Mandarin Chinese is the most spoken language in the world by number of native speakers.",
-    "category": "World Languages"
+    "question": "Can I use the app offline?",
+    "answer": "Yes, the desktop and mobile apps have an offline mode. You can view and edit your data, and changes will automatically sync to the cloud the next time you connect to the internet.",
+    "category": "Features & Usage"
   },
   {
     "id": 18,
-    "question": "What is the official language of Brazil?",
-    "answer": "The official language of Brazil is Portuguese.",
-    "category": "World Languages"
+    "question": "How do I change the theme to Dark Mode?",
+    "answer": "Click on your profile picture in the top right corner, select 'Preferences', and under 'Appearance', choose 'Dark Mode'. You can also set it to follow your system settings.",
+    "category": "Features & Usage"
   },
   {
     "id": 19,
-    "question": "How many official languages does the United Nations have?",
-    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
-    "category": "World Languages"
+    "question": "Is there a limit to how many projects I can create?",
+    "answer": "Free accounts are limited to 3 active projects. Pro and Enterprise accounts can create an unlimited number of projects.",
+    "category": "Features & Usage"
   },
   {
     "id": 20,
-    "question": "Which country has the most official languages?",
-    "answer": "Zimbabwe holds the record for the most official languages at a national level, with 16.",
-    "category": "World Languages"
+    "question": "How do I share a project with a team member?",
+    "answer": "Open the project, click the 'Share' button in the top right corner, and enter the email address of your team member. You can assign them 'Viewer' or 'Editor' permissions.",
+    "category": "Features & Usage"
   },
   {
     "id": 21,
-    "question": "What is the official language of Egypt?",
-    "answer": "The official language of Egypt is Arabic.",
-    "category": "World Languages"
+    "question": "The app keeps crashing on startup. What should I do?",
+    "answer": "Try clearing your application cache by going to Help > Troubleshooting > Clear Cache. If the issue persists, completely uninstall the app, restart your computer, and reinstall the latest version.",
+    "category": "Troubleshooting"
   },
   {
     "id": 22,
-    "question": "What is the largest country by land area?",
-    "answer": "Russia is the largest country in the world by land area.",
-    "category": "World Facts"
+    "question": "Why are my files not syncing?",
+    "answer": "Check your internet connection. If you are online, look for the sync icon in the bottom right corner. If it's red, hover over it to see the error message. You can try forcing a sync by clicking 'Sync Now' in the file menu.",
+    "category": "Troubleshooting"
   },
   {
     "id": 23,
-    "question": "What is the smallest country in the world?",
-    "answer": "Vatican City is the smallest country in the world, both by land area and population.",
-    "category": "World Facts"
+    "question": "I forgot my password and am not receiving the reset email.",
+    "answer": "Please check your spam/junk folder and ensure you typed the email address correctly. If your company uses a strict firewall, ask your IT department to whitelist our email domain.",
+    "category": "Troubleshooting"
   },
   {
     "id": 24,
-    "question": "Which country has the largest population?",
-    "answer": "India currently has the largest population in the world, having surpassed China in 2023.",
-    "category": "World Facts"
+    "question": "Why is the website loading so slowly?",
+    "answer": "We might be experiencing high traffic or a temporary server degradation. You can check our real-time status page at status.ourdomain.com. Alternatively, try clearing your browser cache or disabling extensions.",
+    "category": "Troubleshooting"
   },
   {
     "id": 25,
-    "question": "Which country is known as the Land of the Rising Sun?",
-    "answer": "Japan is known as the Land of the Rising Sun.",
-    "category": "World Facts"
+    "question": "Do you have a public API?",
+    "answer": "Yes, we offer a comprehensive REST API for Pro and Enterprise users. You can find the full API documentation and endpoint references at developer.ourdomain.com.",
+    "category": "API & Developer"
   },
   {
     "id": 26,
-    "question": "Which country is known as the Land of the Midnight Sun?",
-    "answer": "Norway is known as the Land of the Midnight Sun.",
-    "category": "World Facts"
+    "question": "How do I generate an API key?",
+    "answer": "Go to Settings > Developer Options. Click 'Generate New API Key'. Keep this key secret, as it provides full access to your account data. You can revoke it at any time.",
+    "category": "API & Developer"
   },
   {
     "id": 27,
-    "question": "What is the longest river in the world?",
-    "answer": "The Nile River in Africa is traditionally considered the longest river in the world.",
-    "category": "World Geography"
+    "question": "What is the API rate limit?",
+    "answer": "The standard API rate limit is 1,000 requests per minute per IP address. If you need a higher limit, please contact our enterprise sales team.",
+    "category": "API & Developer"
   },
   {
     "id": 28,
-    "question": "What is the largest desert in the world?",
-    "answer": "The Antarctic Desert is the largest desert in the world. The Sahara is the largest hot desert.",
-    "category": "World Geography"
+    "question": "Do you support Webhooks?",
+    "answer": "Yes, you can configure webhooks in the Developer Options section to receive real-time HTTP POST payloads when specific events occur in your account.",
+    "category": "API & Developer"
   },
   {
     "id": 29,
-    "question": "Which is the highest mountain peak in the world?",
-    "answer": "Mount Everest is the highest mountain peak in the world, located in the Himalayas.",
-    "category": "World Geography"
+    "question": "Is there a mobile app available?",
+    "answer": "Yes, our mobile app is available for both iOS (App Store) and Android (Google Play Store). Search for our company name to download it for free.",
+    "category": "Mobile App & Integrations"
   },
   {
     "id": 30,
-    "question": "What is the largest ocean on Earth?",
-    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
-    "category": "World Geography"
+    "question": "Do you integrate with Slack or Microsoft Teams?",
+    "answer": "Yes, we have native integrations for both Slack and Microsoft Teams. You can install them from the 'Integrations' tab in your workspace settings to receive notifications directly in your chat channels.",
+    "category": "Mobile App & Integrations"
   },
   {
     "id": 31,
-    "question": "Which country has the longest coastline in the world?",
-    "answer": "Canada has the longest coastline in the world.",
-    "category": "World Geography"
+    "question": "How do I connect my account to Google Drive?",
+    "answer": "Go to Settings > Integrations, find Google Drive in the list, and click 'Connect'. You'll be prompted to authorize access via Google OAuth.",
+    "category": "Mobile App & Integrations"
   },
   {
     "id": 32,
-    "question": "Which continent is the most populous?",
-    "answer": "Asia is the most populous continent, home to roughly 60% of the world's population.",
-    "category": "World Facts"
+    "question": "Can I export my data to Excel or CSV?",
+    "answer": "Yes, you can export most tables and reports. Look for the 'Export' button (usually an arrow icon pointing down) in the top right corner of the data view and select CSV or Excel format.",
+    "category": "Features & Usage"
   },
   {
     "id": 33,
-    "question": "How many continents are there?",
-    "answer": "There are generally considered to be seven continents: Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America.",
-    "category": "World Facts"
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us by clicking the 'Help' widget in the bottom right corner of the app, or by emailing support@ourcompany.com. Live chat is available for Pro users during business hours.",
+    "category": "Account Management"
   },
   {
     "id": 34,
-    "question": "What is the national animal of Australia?",
-    "answer": "The national animal of Australia is the Red Kangaroo.",
-    "category": "World Facts"
+    "question": "What browsers do you support?",
+    "answer": "We support the latest versions of Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. Internet Explorer is not supported.",
+    "category": "Installation & Setup"
   },
   {
     "id": 35,
-    "question": "What is the capital of New Zealand?",
-    "answer": "The capital of New Zealand is Wellington.",
-    "category": "World Capitals"
+    "question": "Is Single Sign-On (SSO) supported?",
+    "answer": "Yes, SAML-based Single Sign-On (SSO) is available on our Enterprise plan. We support Okta, Azure AD, OneLogin, and custom SAML identity providers.",
+    "category": "Security & Privacy"
   },
   {
     "id": 36,
-    "question": "What is the currency of Switzerland?",
-    "answer": "The currency of Switzerland is the Swiss Franc (CHF).",
-    "category": "World Currencies"
+    "question": "Can I recover a deleted project?",
+    "answer": "Yes, deleted projects remain in the 'Trash' folder for 30 days before being permanently purged. You can restore them from there during that window.",
+    "category": "Features & Usage"
   },
   {
     "id": 37,
-    "question": "Which two countries share the longest international border?",
-    "answer": "Canada and the United States share the longest international border in the world.",
-    "category": "World Geography"
+    "question": "Why was my credit card declined?",
+    "answer": "Credit cards can be declined for various reasons, including insufficient funds, expired cards, or fraud prevention blocks by your bank. Please contact your bank to authorize the charge, or try a different payment method.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 38,
-    "question": "What is the capital of Italy?",
-    "answer": "The capital of Italy is Rome.",
-    "category": "World Capitals"
+    "question": "How do I change my billing currency?",
+    "answer": "Currently, all invoices are billed in USD. We do not support local currency billing at this time.",
+    "category": "Billing & Subscriptions"
   },
   {
     "id": 39,
-    "question": "What is the currency of Brazil?",
-    "answer": "The currency of Brazil is the Brazilian Real (BRL).",
-    "category": "World Currencies"
+    "question": "What is a workspace?",
+    "answer": "A workspace is a shared environment where your team can collaborate on projects. You can be a member of multiple workspaces and switch between them using the dropdown menu in the top left.",
+    "category": "Features & Usage"
   },
   {
     "id": 40,
-    "question": "What is the primary language spoken in Argentina?",
-    "answer": "The primary and official language of Argentina is Spanish.",
-    "category": "World Languages"
-  },
-  {
-    "id": 41,
-    "question": "Which country is home to the Great Barrier Reef?",
-    "answer": "Australia is home to the Great Barrier Reef.",
-    "category": "World Geography"
-  },
-  {
-    "id": 42,
-    "question": "What is the capital of Spain?",
-    "answer": "The capital of Spain is Madrid.",
-    "category": "World Capitals"
-  },
-  {
-    "id": 43,
-    "question": "What is the currency of South Korea?",
-    "answer": "The currency of South Korea is the South Korean Won (KRW).",
-    "category": "World Currencies"
-  },
-  {
-    "id": 44,
-    "question": "Which river flows through Paris?",
-    "answer": "The Seine River flows through Paris.",
-    "category": "World Geography"
-  },
-  {
-    "id": 45,
-    "question": "What is the capital of Thailand?",
-    "answer": "The capital of Thailand is Bangkok.",
-    "category": "World Capitals"
-  },
-  {
-    "id": 46,
-    "question": "Which country has the most islands in the world?",
-    "answer": "Sweden has the most islands in the world, with over 260,000.",
-    "category": "World Geography"
-  },
-  {
-    "id": 47,
-    "question": "What is the currency of Saudi Arabia?",
-    "answer": "The currency of Saudi Arabia is the Saudi Riyal (SAR).",
-    "category": "World Currencies"
-  },
-  {
-    "id": 48,
-    "question": "What is the most populous city in the world?",
-    "answer": "Tokyo, Japan, is the most populous metropolitan area in the world.",
-    "category": "World Facts"
-  },
-  {
-    "id": 49,
-    "question": "Which country is both a continent and a country?",
-    "answer": "Australia is both a continent and a country.",
-    "category": "World Facts"
-  },
-  {
-    "id": 50,
-    "question": "What is the capital of Kenya?",
-    "answer": "The capital of Kenya is Nairobi.",
-    "category": "World Capitals"
+    "question": "How do I transfer ownership of a workspace?",
+    "answer": "The current owner can transfer ownership by going to Workspace Settings > Members, finding the user they want to make the owner, clicking the three dots next to their name, and selecting 'Transfer Ownership'.",
+    "category": "Account Management"
   }
 ]
